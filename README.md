@@ -33,6 +33,7 @@ Users should be able to:
 - CSS
 - Flexbox
 - Desktop only approach
+- JavaScript
 
 ### What I learned
 
