@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/TomasScerbak/suite-landing-page.git]
-- Live Site URL: [https://tomasscerbak.github.io/suite-landing-page/]
+- Solution URL: [https://github.com/TomasScerbak/modal-cards.git]
+- Live Site URL: [https://tomasscerbak.github.io/modal-cards/]
 
 ## My process
 
