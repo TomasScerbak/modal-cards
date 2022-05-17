@@ -41,8 +41,6 @@ I've learned how to show user hidden elements once clicked on button and add fun
 
 Also I created helper functions to keep DRY principle.
 
-From the HTML persective, I learned to provide to user different img quality depending on device using WEBP format and @2x formats for RETINA displey.
-
 To see how you can add code snippets, see below:
 
 ```js
